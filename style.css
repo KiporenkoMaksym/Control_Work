@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+    border: 1px solid lightblue;
+    border-radius: 30px;
+    text-align: center;
+    display: block;
+    width: 100px;
+    padding: 10px;
+    margin: 20px auto;
+    color: aqua;
+    background-color: black;
+}
+a:hover{
+    color: rgb(52, 224, 9);
+    background-color: yellow;
+    font-weight: bold;
+}
